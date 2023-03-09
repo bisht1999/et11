@@ -17,4 +17,3 @@ const ExpenseDate = (props) => {
 };
 
 export default ExpenseDate;
-// as;dlkfa'sdklfj
